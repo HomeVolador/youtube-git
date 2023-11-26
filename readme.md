@@ -10,7 +10,8 @@
             (para salir Esc   :   wq!)
 8. git branch                 Nos muestra las ramas de nuestro proyecto.            
 8. git checkout -b nombre     Crea otro rama para trabajar'
-9. git checkout master        Cambio de rama'
+9. git checkout master        Cambio de rama a la rama main o principal.
+9. git merge rama-Nombre      Nos agregara la rama al directorio y se volvera a visualizar.
 10. git branch -D nombre      'Borrado de rama'
 11. git push                  'Sube los cambios al repositorio: git add . / git commit -m "nombre" / git push.
 12. git commit -am "mensaje   'Sustituye a git add . i git commit -m 'nombre'.
