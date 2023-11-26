@@ -8,6 +8,7 @@
 6. git log                    Muestra los resultados de nuestros commits' (q para salir)
 7. git commit --amend         Arregla las inscripciones de un commit'.
             (para salir Esc   :   wq!)
+8. git branch                 Nos muestra las ramas de nuestro proyecto.            
 8. git checkout -b nombre     Crea otro rama para trabajar'
 9. git checkout master        Cambio de rama'
 10. git branch -D nombre      'Borrado de rama'
