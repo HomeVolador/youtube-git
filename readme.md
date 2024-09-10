@@ -1,5 +1,6 @@
 # Comandos utilies GIT.
 
+0. Desde la carpeta donde tenemos el repositorio escribimos cmd C:\proyectos\repositorio  -cmd-
 1. git init                   Creamos el primer commit'
 2. git add .                  Prepara los archivos para una fotografia o para el commit'
 3. git reset .                Revierte todo lo aplicado con el git add .'
